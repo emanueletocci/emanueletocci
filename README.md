@@ -1,5 +1,5 @@
-### Hi! I'm Emanuele, 20 y.o. 👋
-
+### Hi! 👋
+I'm **Emanuele**, 20 y.o. computer engineer student from 🇮🇹. I'm currently studying at UNISA - Università degli Studi di Salerno and I'm interested in software/hardware development 🖥️ and cybersecurity ☠️.
 <!--
 **emanueletocci/emanueletocci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
