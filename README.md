@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">Interested in: <br><br>🌐 Web dev<br>☠️ Cybersecurity<br>🖥️  Mobile dev<br>🐧 Kernel dev</p>
+<p align="left">Interested in : <br><br>🌐 Web dev<br>☠️ Cybersecurity<br>🖥️  Mobile dev<br>🐧 Kernel dev</p>
+<p align="left">Hobbies :n: <br><br>📸 Photography<br></p>
 
 ###
 
