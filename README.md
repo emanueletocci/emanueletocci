@@ -10,13 +10,8 @@
 
 ###
 
-<p align="left">Interested in : <br><br>🌐 Web dev<br>☠️ Cybersecurity<br>🖥️  Mobile dev<br>🐧 Kernel dev</p>
-<p align="left">Hobbies :n: <br><br>📸 Photography<br></p>
-
-Interested in:
-test
-test
-
+<p align="left">Interested in : <br>🌐 Web dev<br>☠️ Cybersecurity<br>🖥️  Mobile dev<br>🐧 Kernel dev</p>
+<p align="left">Hobbies : <br>📸 Photography<br></p>
 ###
 
 <h3 align="left">Dev stack (currently studying)</h3>
