@@ -53,29 +53,11 @@
 ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
 ###
 
-<h3 align="left">Socials</h3>
-
 ###
-
-<div align="left">
-  <a href="http://bit.ly/2NgsZxN" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/emanuele.tocci.14" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <a href="https://www.hackerrank.com/profile/tocciemanuele03" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlhbzJxbGZycDd6NXB3ajMyZDZyNGM5NGUzcWgwejFtM2g1bTQ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qpGEpgKoVyOtO/giphy.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/emanueletocci/emanueletocci/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/emanueletocci/emanueletocci/output/snake.svg" />
 
 ###
