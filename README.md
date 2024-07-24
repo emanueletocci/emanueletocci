@@ -27,7 +27,8 @@
   ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![ESPHome](https://a11ybadges.com/badge?logo=esphome)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-R2021b-orange?style=flat&logo=matlab&logoColor=white&logoWidth=20&link=https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
+  [![MATLAB](https://img.shields.io/badge/MATLAB-R2021b-orange?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABKElEQVR42mJ89fPXX6///39jPv37D9Bt27bti2bVsq/YvDhw6N5jVwxyAABRlpYPv27Rt+8pWvz8DAwMje/fv7Pf/5g+3tLS0hAMAWFhYWFtKzzrDBhw/L2wMDAwPC9vv3729ra+uuvfwBDhw7F1NRUZn1W0wxIyNj+/fv3bZ9+8KFC5F0WRcpLS3Nzp4J6PDwMFZWVpSmTpmxEwfTh7PvHw8fGD0dFRpBWrV6+gTx8dHe0HgCgVBnMzMykcPBQ+fn5JQDa0WCgFBkZGbH8+HGMjAwMDJQwMBAGxi4dXpdMzIy4gGH+wIAAAAASUVORK5CYII=)](https://www.mathworks.com/products/matlab.html)
+
 
   
 ###
