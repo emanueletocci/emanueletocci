@@ -54,9 +54,9 @@
 ###
 
 <h3 align="left">Website(s)</h3>
-###
+
 [link-page](https://emanueletocci.github.io/link-page/)
 [aboutof](https://aboutof.netlify.app/)
-###
+
 ###
 <img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlhbzJxbGZycDd6NXB3ajMyZDZyNGM5NGUzcWgwejFtM2g1bTQ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qpGEpgKoVyOtO/giphy.gif"  />
