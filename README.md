@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Emanuele, 20 y.o. computer engineer student from 🇮🇹. I'm currently studying at UNISA - Università degli Studi di Salerno.</p>
+<p align="left">I'm Emanuele, 21 y.o. computer engineer student from 🇮🇹. I'm currently studying at UNISA - Università degli Studi di Salerno.</p>
 
 ###
 
