@@ -27,6 +27,8 @@
   ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![ESPHome](https://a11ybadges.com/badge?logo=esphome)
+  ![Matlab Badge](https://img.shields.io/badge/Skill-Matlab-%2300A3E0?style=flat&logo=matlab&logoColor=white)
+
   
 ###
 
