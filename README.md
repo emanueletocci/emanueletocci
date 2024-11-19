@@ -30,8 +30,7 @@
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-  ![ESPHome](https://a11ybadges.com/badge?logo=esphome)
-  ![Tasmota](https://img.shields.io/badge/Tasmota-1FA3EC.svg?style=for-the-badge&logo=Tasmota&logoColor=white)
+
 
 ###
 
@@ -44,7 +43,10 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+![ESPHome](https://a11ybadges.com/badge?logo=esphome)
+![Tasmota](https://img.shields.io/badge/Tasmota-1FA3EC.svg?style=for-the-badge&logo=Tasmota&logoColor=white)
 ###
 
 <h3 align="left">Website(s)</h3>
