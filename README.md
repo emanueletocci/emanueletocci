@@ -31,6 +31,7 @@
   ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![ESPHome](https://a11ybadges.com/badge?logo=esphome)
+  ![Tasmota](https://img.shields.io/badge/Tasmota-1FA3EC.svg?style=for-the-badge&logo=Tasmota&logoColor=white)
 
 ###
 
