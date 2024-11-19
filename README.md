@@ -30,6 +30,7 @@
   ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![ESPHome](https://a11ybadges.com/badge?logo=esphome)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&logoColor=white)
 
 ###
@@ -43,6 +44,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ###
 
 <h3 align="left">Website(s)</h3>
