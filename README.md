@@ -49,12 +49,21 @@
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![ESPHome](https://a11ybadges.com/badge?logo=esphome)
 ![Tasmota](https://img.shields.io/badge/Tasmota-1FA3EC.svg?style=for-the-badge&logo=Tasmota&logoColor=white)
-###
-
-<h3 align="left">Website(s)</h3>
-
-[link-page](https://emanueletocci.github.io/link-page/)
-[aboutof](https://aboutof.netlify.app/)
 
 ###
+<h3 align="left">Social(s)</h3>
+
+<a href="https://emanueletocci.github.io/link-page/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Facebook"></a>
+<a href="https://aboutof.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/emanuele.tocci/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/emanuele.tocci.ph/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/emanuele.tocci.14" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.facebook.com/emanuele.tocci.14" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Facebook"></a>
+<a href="https://www.facebook.com/emanuele.tocci.14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook"></a>
+<a href="https://www.facebook.com/emanuele.tocci.14" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Facebook"></a>
+
+###
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanueletocci&show_icons=true&locale=en&layout=compact&" alt="ovi" />
+
 <img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlhbzJxbGZycDd6NXB3ajMyZDZyNGM5NGUzcWgwejFtM2g1bTQ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qpGEpgKoVyOtO/giphy.gif"  />
