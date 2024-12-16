@@ -67,3 +67,4 @@
 ###
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanueletocci&show_icons=true&locale=en&layout=compact&" alt="ovi" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueletocci&count_private=true)
