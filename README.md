@@ -1,4 +1,6 @@
 <h3 align="left">Hi 👋!</h3>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlhbzJxbGZycDd6NXB3ajMyZDZyNGM5NGUzcWgwejFtM2g1bTQ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qpGEpgKoVyOtO/giphy.gif"  />
+
 
 ###
 
@@ -65,5 +67,3 @@
 ###
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanueletocci&show_icons=true&locale=en&layout=compact&" alt="ovi" />
-
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlhbzJxbGZycDd6NXB3ajMyZDZyNGM5NGUzcWgwejFtM2g1bTQ2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qpGEpgKoVyOtO/giphy.gif"  />
