@@ -66,6 +66,4 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanueletocci&show_icons=true&locale=en&layout=compact&" alt="ovi" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanueletocci&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
