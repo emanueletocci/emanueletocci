@@ -12,11 +12,6 @@
 
 ###
 
-<p align="left">Interested in : <br>☠️ Cybersecurity<br>🖥️  Mobile/Web dev<br>🐧 Kernel dev</p>
-<p align="left">Hobbies : <br>📸 Photography<br></p>
-
-###
-
 <h3 align="left">Dev stack (currently studying)</h3>
 
 ###
