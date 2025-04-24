@@ -60,6 +60,6 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats-eight-psi-81.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-eight-psi-81.vercel.app/api??username=emanueletocci&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats-eight-psi-81.vercel.app/api/top-langs/?username=emanueletocci&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
