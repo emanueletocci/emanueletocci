@@ -32,7 +32,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,c,java,matlab,git,latex)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,c,java,matlab,git,latex,bash)](https://skillicons.dev)
 [![OS](https://skillicons.dev/icons?i=linux,redhat,docker,postgres,sqlite)](https://skillicons.dev)
 ---
 
