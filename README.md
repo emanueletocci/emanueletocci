@@ -14,7 +14,7 @@
           <img src="https://img.shields.io/badge/reddit-FF1905?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
     </a>
     <a href="https://aboutof.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Aboutof-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
     </a>
   </p>
 
