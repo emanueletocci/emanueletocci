@@ -10,9 +10,6 @@ MSc Cybersecurity Engineering Student @ <a href="https://www.polito.it/">PoliTo<
 <a href="https://www.linkedin.com/in/emanuele-tocci" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.reddit.com/user/emanuele_tocci/" target="_blank">
-          <img src="https://img.shields.io/badge/reddit-FF1905?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-    </a>
     <a href="https://aboutof.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Aboutof-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
     </a>
