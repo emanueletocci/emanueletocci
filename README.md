@@ -33,6 +33,4 @@ MSc Cybersecurity Engineering Student @ <a href="https://www.polito.it/">PoliTo<
 
 ---
 ### 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-eight-psi-81.vercel.app/api/top-langs/?username=emanueletocci&layout=donut" />
-</a>
+![Stats](./profile/stats.svg)
