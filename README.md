@@ -34,3 +34,5 @@ MSc Cybersecurity Engineering Student @ <a href="https://www.polito.it/">PoliTo<
 ---
 ### 📊 GitHub Stats
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
