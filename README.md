@@ -28,8 +28,8 @@ MSc Cybersecurity Engineering Student @ <a href="https://www.polito.it/">PoliTo<
 ---
 
 ### 🛠️ Languages & Tools
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,c,java,matlab,git,latex,bash)](https://skillicons.dev)
-[![OS](https://skillicons.dev/icons?i=linux,redhat,docker,postgres,sqlite)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,react,dart,flutter,c,java,matlab,git,latex,bash)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=linux,docker,postgres,sqlite)](https://skillicons.dev)
 
 ---
 ### 📊 GitHub Stats
