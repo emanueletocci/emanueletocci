@@ -16,6 +16,13 @@ MSc Cybersecurity Engineering Student @ <a href="https://www.polito.it/">PoliTo<
 
 </div>
 
+<p align="center">
+  <a href="(https://www.linkedin.com/in/emanuele-tocci)">
+    <img src="https://skillicons.dev/icons?linkedin"/>
+  </a>
+</p>
+
+
 ---
 
 ### 🔭 About Me & Interests
