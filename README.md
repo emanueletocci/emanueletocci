@@ -20,6 +20,9 @@ MSc Cybersecurity Engineering Student @ <a href="https://www.polito.it/">PoliTo<
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 
