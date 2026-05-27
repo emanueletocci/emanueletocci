@@ -2,7 +2,7 @@
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHphcGozY20wY2h5c25hbXF2ZTFudTN5ZG85ZjFub3NiNmo0cjR3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif" width="100%" />
 
-# Hi there, I'm Emanuele! 👋
+# Hi there, I'm Emanuele! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 MSc Cybersecurity Engineering Student @ <a href="https://www.polito.it/">PoliTo</a> 🇮🇹
  
