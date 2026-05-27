@@ -6,22 +6,14 @@
 
 MSc Cybersecurity Engineering Student @ <a href="https://www.polito.it/">PoliTo</a> 🇮🇹
  
-
-<a href="https://www.linkedin.com/in/emanuele-tocci" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://aboutof.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Aboutof-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-    </a>
-
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/emanuele-tocci">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://www.instagram.com/emanuele.tocci.ph/" />
   </a>
 </p>
 
