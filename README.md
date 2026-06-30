@@ -26,6 +26,7 @@ MSc Cybersecurity Engineering Student @ <a href="https://www.polito.it/">PoliTo<
 - 🔐 I’m passionate about **Cybersecurity** and **Embedded Systems**.
 - 🚁 In my free time, I am a **Photography Enthusiast** and a **Drone Pilot**.
 - 🎮 I'm also a huge fan of **Video Games**, **Cinema**, and **Anime**.
+- 📄 Feel free to check out my [Resume](./docs/resume.pdf) for more details about my background.
 
 ---
 
